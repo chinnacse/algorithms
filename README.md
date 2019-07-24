@@ -1,2 +1,2 @@
 # algorithms
-all the basic algorithms
+all the basic sorting algorithms
