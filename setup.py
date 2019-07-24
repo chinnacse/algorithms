@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'algorithms',         # How you named your package folder 
-  packages = ['algorithms'],   # Chose the same as "name"
+  name = 'basic_algorithms',         # How you named your package folder 
+  packages = ['basic_algorithms'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Basic algorithms',   # Give a short description about your library
